@@ -1,7 +1,6 @@
 # Password List Maker 1.0
 # By mrsploit
-# t.me/jailbreakandroot
-# https://jilrot.com
+# t.me/zoneh
 import os
 
 data_list = []
